@@ -15,6 +15,6 @@ public class SineTable {
             if ((i + 1) % 10 == 0) {
                 System.out.println();
             }
-        }г
+        }
     }
 }
